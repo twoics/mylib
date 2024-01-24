@@ -1,4 +1,4 @@
-https://kafka.apache.org/08/documentation/#configuration
+https://kafka.apache.org/08/documentation/#configuration ^a59a96
 ### broker.id
 Уникальный идентификатор каждого брокера внутри кластера
 
